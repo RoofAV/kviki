@@ -1,4 +1,4 @@
 ## For install write this commande
 ```bash
-$ git clone https://githib.com/roofav/skynote.git
+$ git clone https://github.com/RoofAV/kviki.git
 ```
